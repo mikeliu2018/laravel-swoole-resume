@@ -1,0 +1,160 @@
+{
+  "about": {
+    "title": "關於我",
+    "lists": [
+      "從小就喜歡電腦科學，大學時開始特別喜愛網站服務等技術科研項目，也是在這個時期開始接觸程式語言。從使用 C 語言撰寫命令列程式到使用 PHP 架設網站並設計及撰寫購物網站等網站資料庫系統。",
+      "擅長領域是網站後端，熟悉的開發環境是 Linux + PHP + MySQL ，也會一些網站前端技術如： Javascript + CSS + HTML + Vue + Webpack。",
+      "平時會參加一些技術研討會，也有參加一些 Telegram 上面的技術頻道和其他人分享交流，也會利用下班或放假時間進行感興趣的 side project 項目。",
+      "在後端工作了5年以上時間後，因為公司專案的緣故而開始接觸到嵌入式程式設計的工作，此時主要的開發語言是 C/C++ 並在此時相關的知識及技術有比較快速的增進及補完。",
+      "目前最感興趣的部分是虛擬化技術及雲端串流服務技術，並將會以此為重點目標繼續投入工作及科研熱情。"
+    ]
+  },
+  "experiences": {
+    "title": "經歷",
+    "lists": [
+      {
+        "company": "摩根全球購物",
+        "interval": {
+          "start": "2010/08",
+          "end": "2011/10"
+        },
+        "description": "進行購物網站開發，此時主要掌握 PHP + MySQL + AJAX 等技術並和國泰世華銀行及三方平台的金流串接方式 (XML)。"
+      },
+      {
+        "company": "云丰生技醫藥",
+        "interval": {
+          "start": "2013/10",
+          "end": "2015/08"
+        },
+        "description": "進行生技醫藥推薦系統開發，此時主要掌握 Bootstrap 進行佈局切版及資料庫系統設計的技巧。"
+      },
+      {
+        "company": "亦思科技",
+        "interval": {
+          "start": "2015/09",
+          "end": "2017/02"
+        },
+        "description": "派駐到工業技術研究院參與一項政府的自動化系統研究計畫 (TOMATO)，負責 Restful API 開發及資料庫系統設計。"
+      },
+      {
+        "company": "工業技術研究院",
+        "interval": {
+          "start": "2017/02",
+          "end": "2018/09"
+        },
+        "description": "深入參與 (TOMATO)計畫，負責其後台維運平台開發，並透過 OAuth 2 方式和各大網路服務及 IoT 平台串接系統。偶爾也需要撰寫排程腳本進行資料收集。"
+      },
+      {
+        "company": "淇譽電子",
+        "interval": {
+          "start": "2018/10",
+          "end": "2023/01"
+        },
+        "description": "與 (TOMATO) 原團隊加入淇譽電子進行產業轉型及智慧音箱設計及開發，其間使用 C/C++ 進行智慧音箱設計及開發(linux app)，使用技術包含 Buildroot / Bluez / MQTT / Google Speech Recognition / ITRI TTS...等等。"
+      },
+      {
+        "company": "合創數位科技",
+        "interval": {
+          "start": "2023/08",
+          "end": "2024/03"
+        },
+        "description": "與 (TOMATO) 原團隊加入淇譽電子進行產業轉型及智慧音箱設計及開發，其間使用 C/C++ 進行智慧音箱設計及開發(linux app)，使用技術包含 Buildroot / Bluez / MQTT / Google Speech Recognition / ITRI TTS...等等。"
+      }
+    ]
+  },
+
+  "skill": {
+    "title": "技能樹",
+    "skills": [
+      {
+        "type": "網頁技術",
+        "lists": [
+          {
+            "image": "resources/images/html.svg",
+            "text": "HTML"
+          },
+          {
+            "image": "resources/images/css.svg",
+            "text": "CSS"
+          },
+          {
+            "image": "resources/images/javascript.svg",
+            "text": "JavaScript"
+          },
+          {
+            "image": "resources/images/webpack.svg",
+            "text": "Webpack"
+          },
+          {
+            "image": "resources/images/vue2.svg",
+            "text": "Vue2"
+          },
+          {
+            "image": "resources/images/nodejs.svg",
+            "text": "Nodejs"
+          },
+          {
+            "image": "resources/images/laravel.svg",
+            "text": "Laravel 8"
+          },
+          {
+            "image": "resources/images/nuxt.svg",
+            "text": "Nuxt"
+          }
+        ]
+      },
+      {
+        "type": "程式語言",
+        "lists": [
+          {
+            "image": "resources/images/php.svg",
+            "text": "PHP"
+          },
+          {
+            "image": "resources/images/javascript.svg",
+            "text": "JavaScript"
+          },
+          {
+            "image": "resources/images/c++.svg",
+            "text": "C++"
+          }
+        ]
+      },
+      {
+        "type": "資料庫",
+        "lists": [
+          {
+            "image": "resources/images/mysql.svg",
+            "text": "MySQL"
+          },
+          {
+            "image": "resources/images/mongodb.svg",
+            "text": "Mongodb"
+          }        
+        ]
+      },
+      {
+        "type": "其他",
+        "lists": [
+          {
+            "image": "resources/images/linux.svg",
+            "text": "Linux"
+          },
+          {
+            "image": "resources/images/git.svg",
+            "text": "Git"
+          },
+          {
+            "image": "resources/images/docker.svg",
+            "text": "Docker"
+          },
+          {
+            "image": "resources/images/swagger.svg",
+            "text": "Swagger"
+          }
+        ]
+      }
+    ]
+  }
+  
+}
